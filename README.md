@@ -1,4 +1,4 @@
-# Applied Social Network Analysis in Python
+# Coursera-Applied Social Network Analysis in Python
 Applied Social Network Analysis in Python
 
 This repository contains a collection of the assignments used in the course Applied Social Network Analysis in Python, part of Applied Data Science using Python Specialization from University of Michigan offered by Coursera
